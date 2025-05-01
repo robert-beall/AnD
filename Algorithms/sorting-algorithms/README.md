@@ -3,8 +3,8 @@ Key sorting algorithms to (re)learn and have close at hand.
 
 ## Index
 - [Bubble Sort](/Algorithms/sorting-algorithms/bubble-sort/README.md)
-- Selection Sort
-- Insertion Sort
+- [Selection Sort](/Algorithms/sorting-algorithms/selection-sort/README.md)
+- [Insertion Sort](/Algorithms/sorting-algorithms/insertion-sort/README.md)
 - Quick Sort
 - Merge Sort
 - Bucket Sort
